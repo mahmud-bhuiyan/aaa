@@ -1,0 +1,116 @@
+[
+  {
+    "id": 1,
+    "logo": "https://i.ibb.co/q7xSw94/google-1-1-1.png",
+    "title": "Software Engineer",
+    "company_name": "Google LLC",
+    "job_location": "Onsite",
+    "working_as": "Full-time",
+    "office_address": "1600 Amphitheatre Parkway, Mountain View, CA",
+    "salary": 120000,
+    "description": "We are looking for a skilled software engineer to join our team and contribute to the development of cutting-edge software products.",
+    "responsibilities": "Develop and maintain software applications, collaborate with cross-functional teams, debug and resolve software defects, conduct code reviews, etc.",
+    "education": "Bachelor's degree in Computer Science or related field",
+    "experience": 3,
+    "contact_info": {
+      "phone_no": "123-456-7890",
+      "email": "careers@google.com",
+      "address": "1600 Amphitheatre Parkway, Mountain View, CA"
+    }
+  },
+  {
+    "id": 2,
+    "logo": "https://i.ibb.co/9tG9Wcm/facebook-logo-icon-file-facebook-icon-svg-wikimedia-commons-4.png",
+    "title": "Operations Manager",
+    "company_name": "Facebook",
+    "job_location": "Remote",
+    "working_as": "Full-time",
+    "office_address": "410 Terry Ave N, Seattle, WA",
+    "salary": 90000,
+    "description": "We are seeking an experienced operations manager to oversee our day-to-day operations and optimize our processes to improve efficiency and productivity.",
+    "responsibilities": "Manage operations team, monitor and analyze operational metrics, implement process improvements, develop and execute operational plans, etc.",
+    "education": "Bachelor's degree in Computer Science or related field",
+    "experience": 5,
+    "contact_info": {
+      "phone_no": "987-654-3210",
+      "email": "careers@amazon.com",
+      "address": "410 Terry Ave N, Seattle, WA"
+    }
+  },
+  {
+    "id": 3,
+    "logo": "https://i.ibb.co/hF2RZnh/tesla-logo-png-27.png",
+    "title": "Electrical Engineer",
+    "company_name": "Tesla",
+    "job_location": "Onsite",
+    "working_as": "Full-time",
+    "office_address": "3500 Deer Creek Rd, Palo Alto, CA",
+    "salary": 110000,
+    "description": "We are looking for a talented electrical engineer to design, develop, and test electrical systems for our innovative electric vehicles.",
+    "responsibilities": "Design electrical systems, conduct simulations and tests, collaborate with cross-functional teams, troubleshoot and resolve electrical issues, etc.",
+    "education": "Bachelor's degree in Electrical Engineering or related field",
+    "experience": 4,
+    "contact_info": {
+      "phone_no": "456-789-0123",
+      "email": "careers@tesla.com",
+      "address": "3500 Deer Creek Rd, Palo Alto, CA"
+    }
+  },
+  {
+    "id": 4,
+    "logo": "https://i.ibb.co/9tG9Wcm/facebook-logo-icon-file-facebook-icon-svg-wikimedia-commons-4.png",
+    "title": "Product Manager",
+    "company_name": "Facebook",
+    "job_location": "Onsite",
+    "working_as": "Full-time",
+    "office_address": "1 Hacker Way, Menlo Park, CA",
+    "salary": 130000,
+    "description": "We are looking for an experienced product manager to drive the development and launch of new products and features for our social media platform.",
+    "responsibilities": "Define product strategy, conduct market research, collaborate with cross-functional teams, develop product roadmaps, analyze user feedback, etc.",
+    "education": "Bachelor's degree in Business or related field",
+    "experience": 7,
+    "contact_info": {
+      "phone_no": "789-012-3456",
+      "email": "careers@facebook.com",
+      "address": "1 Hacker Way, Menlo Park, CA"
+    }
+  },
+  {
+    "id": 5,
+    "logo": "https://i.ibb.co/hF2RZnh/tesla-logo-png-27.png",
+    "title": "Warehouse Associate",
+    "company_name": "Tesla",
+    "job_location": "Onsite",
+    "working_as": "Part-time",
+    "office_address": "123 Main St, Chicago, IL",
+    "salary": 150000,
+    "description": "We are seeking reliable and hardworking warehouse associates to perform various tasks in our fulfillment center and ensure timely delivery of customer orders.",
+    "responsibilities": "Pack and ship customer orders, receive and unload inventory, operate warehouse equipment, maintain cleanliness and safety standards, etc.",
+    "education": "High school diploma or equivalent",
+    "experience": 1,
+    "contact_info": {
+      "phone_no": "987-654-3210",
+      "email": "careers@amazon.com",
+      "address": "123 Main St, Chicago, IL"
+    }
+  },
+  {
+    "id": 6,
+    "logo": "https://i.ibb.co/hF2RZnh/tesla-logo-png-27.png",
+    "title": "Mechanical Engineer",
+    "company_name": "Tesla",
+    "job_location": "Remote",
+    "working_as": "Full-time",
+    "office_address": "3500 Deer Creek Rd, Palo Alto, CA",
+    "salary": 120000,
+    "description": "We are looking for a skilled mechanical engineer to design and develop mechanical systems for our electric vehicles and energy products.",
+    "responsibilities": "Design mechanical systems, conduct simulations and tests, collaborate with cross-functional teams, troubleshoot and resolve mechanical issues, etc.",
+    "education": "Bachelor's degree in Mechanical Engineering or related field",
+    "experience": 5,
+    "contact_info": {
+      "phone_no": "456-789-0123",
+      "email": "careers@tesla.com",
+      "address": "3500 Deer Creek Rd, Palo Alto, CA"
+    }
+  }
+]
